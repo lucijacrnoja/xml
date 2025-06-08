@@ -1,0 +1,18 @@
+<uzgajivaci>
+    <osoba>
+        <ime>Milivoj</ime>
+        <prezime>Vugrinec</prezime>
+        <lokacija>Slavonija</lokacija>
+        <sorta>Slatki kukuruz</sorta>
+        <slika>milivoj.jpg</slika>
+        <opis>Njegov rad započinje rano ujutro, često u tišini polja, gdje promatra rast biljaka i prati vremenske uvjete. Iskusan je u prepoznavanju kvalitete zrna i zna točno kada je vrijeme za žetvu. S ljubavlju i upornošću njeguje kukuruz od sjemena do zrelog klipa, jer zna da njegov trud hrani mnoge – i ljude i životinje. Njegove ruke su često umorne, ali ponosne, jer iza svakog klipa stoji trud, znanje i veza s prirodom.</opis>
+    </osoba>
+    <osoba>
+        <ime>Helena</ime>
+        <prezime>Borug</prezime>
+        <lokacija>Baranja</lokacija>
+        <sorta>Tvrdi kukuruz</sorta>
+        <slika>helena.jpg</slika>
+        <opis>Njezin rad doprinosi očuvanju i razvoju ove važne žitarice. Od pripreme tla do brige o biljkama, njezin rad je temeljit i predan. Svakodnevno obilazi polja, prati rast kukuruza i zna kada biljci treba voda, a kada mir. Njezin trud često prolazi tiho, ali iza svakog zlatnog klipa stoji njezina upornost i strpljenje. U rukama nosi i težinu i nježnost – spoj snage i ljubavi prema zemlji koja rađa hranu za mnoge.</opis>
+    </osoba>
+</uzgajivaci>

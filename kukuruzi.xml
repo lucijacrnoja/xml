@@ -1,0 +1,14 @@
+<kukuruzi>
+    <kukuruz>
+        <naziv>Slatki kukuruz</naziv>
+        <podrijetlo>SAD</podrijetlo>
+        <opis>Tvrdi kukuruz je vrsta kukuruza koja ima čvrsta i suha zrna, najčešće žute ili bijele boje. Koristi se prvenstveno za proizvodnju brašna, griza i stočne hrane. Zrna tvrdom kukuruza bogata su škrobom i izvrsna su za dugotrajno skladištenje. Ova vrsta kukuruza nije pogodna za jelo u svježem stanju jer je tvrda i manje slatka, ali je osnovna sirovina za mnoge prehrambene i industrijske proizvode. Zbog svoje otpornosti i nutritivnih vrijednosti, tvrdi kukuruz jedan je od najvažnijih poljoprivrednih usjeva u svijetu.</opis>
+        <slika>slatki_kukuruz.jpg</slika>
+    </kukuruz>
+    <kukuruz>
+        <naziv>Tvrdi kukuruz</naziv>
+        <podrijetlo>Meksiko</podrijetlo>
+        <opis>Slatki kukuruz je vrsta kukuruza koja se odlikuje mekšim, sočnijim i slađim zrnima zbog višeg sadržaja šećera. Najčešće se konzumira svjež, kuhan ili pečen, a omiljena je ljetna delicija u mnogim zemljama. Slatki kukuruz nije prikladan za dugotrajno skladištenje jer se šećer brzo pretvara u škrob, zbog čega se preporučuje konzumirati ga što svježijeg. Često se koristi u pripremi različitih jela, poput salata i juha, te je cijenjen zbog svoje blage i ugodne arome.</opis>
+        <slika>tvrdi_kukuruz.jpg</slika>
+    </kukuruz>
+</kukuruzi>
